@@ -7,13 +7,13 @@
 
 | Línea de Tiempo Académica | Progreso del Programa | Fase Actual |
 | :--- | :--- | :--- |
-| `Semestre 1` ➔ `Semestre 8` 🎓 | ![Progreso](https://geps.dev/progress/89?text=89%25) | **Cursando Semestre 9 (Último)** |
+| `Semestre 1` ➔ `Semestre 9` 🎓 | ![Progreso](https://geps.dev/progress/92?text=92%25) | **Cursando Semestre 9 (Último)** |
 
 <p align="center">
-  <a href="mailto:tu.correo@ucaldas.edu.co">
+  <a href="mailto:christian.rodriguez6654@ucaldas.edu.co">
     <img src="https://img.shields.io/badge/Email-Conéctame-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://www.linkedin.com/in/christian-rodriguez-messa-68b41926b">
     <img src="https://img.shields.io/badge/LinkedIn-Sígueme-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="#-proyectos-en-desarrollo">
@@ -29,15 +29,15 @@
 * **Lenguajes:** `JavaScript (ES6+)` `Node.js`
 * **Web & Arquitectura:** Programación Web I y II, Arquitectura de Software Empresarial, Calidad y Pruebas.
 * **Progreso de Dominio:**
-  * **JavaScript / Node.js:** ![85%](https://geps.dev/progress/85?text=85%25)
-  * **Arquitectura & Requisitos:** ![80%](https://geps.dev/progress/80?text=80%25)
+  * **JavaScript / Node.js:** ![85%](https://geps.dev/progress/92?text=92%25)
+  * **Arquitectura & Requisitos:** ![80%](https://geps.dev/progress/90?text=90%25)
 
 ### 🗄️ Gestión de Datos & Infraestructura
 * **Bases de Datos:** Relacionales (Bases de Datos I y II) y No Relacionales (Electiva).
 * **Cloud & Redes:** Servicios de Computación en la Nube, Gestión de Redes y Comunicaciones.
 * **Progreso de Dominio:**
-  * **Bases de Datos (SQL/NoSQL):** ![80%](https://geps.dev/progress/80?text=80%25)
-  * **Cloud Computing:** ![70%](https://geps.dev/progress/70?text=70%25)
+  * **Bases de Datos (SQL/NoSQL):** ![80%](https://geps.dev/progress/90?text=90%25)
+  * **Cloud Computing:** ![70%](https://geps.dev/progress/87?text=87%25)
 
 ---
 
