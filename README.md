@@ -1,48 +1,74 @@
-# ¡Hola! Soy [Tu Nombre y Apellidos] 👋 
+# ¡Hola! Soy Christian, 👋
+### Estudiante de Último Semestre | Ingeniería en Informática | Universidad de Caldas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Estudiante%20Último%20Semestre-brightgreen?style=for-the-badge&logo=academic-onsite" alt="Estado Académico">
-  <img src="https://img.shields.io/badge/Universidad-U.%20de%20Caldas-blue?style=for-the-badge&logo=university" alt="Universidad">
-  <img src="https://img.shields.io/badge/Ubicación-Manizales,%20Col-orange?style=for-the-badge&logo=map" alt="Ubicación">
+---
+
+## 📊 Estado Actual
+
+| Línea de Tiempo Académica | Progreso del Programa | Fase Actual |
+| :--- | :--- | :--- |
+| `Semestre 1` ➔ `Semestre 8` 🎓 | ![Progreso](https://geps.dev/progress/89?text=89%25) | **Cursando Semestre 9 (Último)** |
+
+<p align="center">
+  <a href="mailto:tu.correo@ucaldas.edu.co">
+    <img src="https://img.shields.io/badge/Email-Conéctame-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-Sígueme-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#-proyectos-en-desarrollo">
+    <img src="https://img.shields.io/badge/Proyectos-Explorar-success?style=for-the-badge&logo=github&logoColor=white" alt="Proyectos"/>
+  </a>
 </p>
 
 ---
 
-## 📈 Mi Estado Actual
-
-> 💡 **Enfoque actual:** Culminando el plan de estudios en Ingeniería en Informática, profundizando en arquitecturas backend escalables y preparándome para el despliegue de proyectos Full-Stack.
-
-| Meta Académica / Profesional | Progreso | Estado |
-| :--- | :---: | :---: |
-| **Plan de Estudios (9 Semestres)** | <table><tr><td>📦 95%</td></tr></table> | ⏳ Último Semestre |
-| **Fundamentos Backend (Node.js/JS)** | <table><tr><td>📦 85%</td></tr></table> | 🚀 Avanzado |
-| **Diseño y Gestión de Bases de Datos** | <table><tr><td>📦 80%</td></tr></table> | 🛠️ En Práctica |
-| **Despliegue de Proyectos (Próximamente)** | <table><tr><td>📦 10%</td></tr></table> | 🏗️ Planificación |
-
----
-
-## 🛠️ Stack Tecnológico & Habilidades Académicas
-*Con el respaldo teórico y práctico de las asignaturas del Plan 584 de la Universidad de Caldas.*
+## 🛠️ Stack Tecnológico & Competencias (Plan 584)
 
 ### 💻 Desarrollo de Software & Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
+* **Lenguajes:** `JavaScript (ES6+)` `Node.js`
+* **Web & Arquitectura:** Programación Web I y II, Arquitectura de Software Empresarial, Calidad y Pruebas.
+* **Progreso de Dominio:**
+  * **JavaScript / Node.js:** ![85%](https://geps.dev/progress/85?text=85%25)
+  * **Arquitectura & Requisitos:** ![80%](https://geps.dev/progress/80?text=80%25)
 
-*   **Lógica y Programación Web:** Respaldado por *Programación Web I y II* y *Programación Orientada a Objetos*.
-*   **Ciclo de Vida:** Dominio de metodologías ágiles y estructuradas gracias a *Ingeniería de Requisitos* y *Calidad y Pruebas de Software*.
-
-### 🗄️ Gestión de Datos y Arquitectura
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Bases_de_Datos-Relacionales_y_No_Relacionales-purple?style=for-the-badge" alt="Bases de Datos">
-</p>
-
-*   **Infraestructura de Datos:** Modelado, optimización e integridad de datos adquiridos en *Bases de Datos I y II*.
-*   **Estrategia de Sistemas:** Enfoque sistémico guiado por *Arquitectura de Software Empresarial* y *Servicios de Computación en la Nube*.
+### 🗄️ Gestión de Datos & Infraestructura
+* **Bases de Datos:** Relacionales (Bases de Datos I y II) y No Relacionales (Electiva).
+* **Cloud & Redes:** Servicios de Computación en la Nube, Gestión de Redes y Comunicaciones.
+* **Progreso de Dominio:**
+  * **Bases de Datos (SQL/NoSQL):** ![80%](https://geps.dev/progress/80?text=80%25)
+  * **Cloud Computing:** ![70%](https://geps.dev/progress/70?text=70%25)
 
 ---
+
+## 📂 Proyectos en Desarrollo
+
+### 🚀 Sistema de Gestión Empresarial End-to-End
+* **Estado:** `🏗️ En Construcción` 
+* **Progreso:** ![45%](https://geps.dev/progress/45?text=45%25)
+* **Tecnologías:** Node.js, Express, JavaScript, SQL.
+* **Enfoque:** Aplicación de ingeniería de requisitos y patrones arquitectónicos empresariales.
+
+### ☁️ API REST de Servicios en la Nube
+* **Estado:** `📝 Planificación`
+* **Progreso:** ![10%](https://geps.dev/progress/10?text=10%25)
+* **Tecnologías:** Node.js, NoSQL, Cloud Services.
+* **Enfoque:** Implementación de persistencia no relacional y despliegue cloud.
+
+---
+
+## 🎓 Formación Académica
+
+* **Ingeniería en Informática** | *Universidad de Caldas (Manizales, Colombia)*
+  * **Especialidad:** Ciclo de vida del software, gestión de proyectos TI y arquitectura empresarial.
+  * **Énfasis de último año:** Servicios Cloud, Inteligencia Artificial y Gestión de Proyectos.
+
+---
+
+<details>
+<summary><b>💡 Haz clic aquí para ver mis áreas de interés específicas</b></summary>
+
+* Desarrollo Backend y APIs RESTful.
+* Diseño y optimización de bases de datos relacionales y NoSQL.
+* Automatización, calidad de software y despliegue en la nube.
+</details>
