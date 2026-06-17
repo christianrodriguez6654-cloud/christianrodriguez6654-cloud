@@ -1,4 +1,5 @@
-# ¡Hola! Soy Christian, 👋
+# ¡Hola! Bienvenido, 👋
+## Soy Christian Rodríguez
 ### Estudiante de Último Semestre | Ingeniería en Informática | Universidad de Caldas
 
 ---
