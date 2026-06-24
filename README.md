@@ -46,13 +46,13 @@
 
 ### 🚀 Convertidor de unidades
 * **Estado:** `⭐ Finalizado` 
-* **Progreso:** ![100%](https://geps.dev/progress/45?text=45%25)
+* **Progreso:** ![100%](https://geps.dev/progress/100?text=100%25)
 * **Tecnologías:** Node.js, HTML, CSS,.
 * **Enfoque:** Construir una Aplicación Web sencilla que permita convertir valores entre diferentes.
 
 ### ☁️ API REST Metereologica
 * **Estado:** `🏗️ En construcción`
-* **Progreso:** ![30%](https://geps.dev/progress/10?text=10%25)
+* **Progreso:** ![30%](https://geps.dev/progress/30?text=30%25)
 * **Tecnologías:** Node.js, Express.js, SQL, CRUD.
 * **Enfoque:** Implementación de API RESTFUL que permita consultar datos meteorológicos en tiempo real y gestionarlos como tareas .
 
