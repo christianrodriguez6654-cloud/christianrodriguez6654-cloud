@@ -44,17 +44,17 @@
 
 ## 📂 Proyectos en Desarrollo
 
-### 🚀 Sistema de Gestión Empresarial End-to-End
-* **Estado:** `🏗️ En Construcción` 
-* **Progreso:** ![45%](https://geps.dev/progress/45?text=45%25)
-* **Tecnologías:** Node.js, Express, JavaScript, SQL.
-* **Enfoque:** Aplicación de ingeniería de requisitos y patrones arquitectónicos empresariales.
+### 🚀 Convertidor de unidades
+* **Estado:** `⭐ Finalizado` 
+* **Progreso:** ![100%](https://geps.dev/progress/45?text=45%25)
+* **Tecnologías:** Node.js, HTML, CSS,.
+* **Enfoque:** Construir una Aplicación Web sencilla que permita convertir valores entre diferentes.
 
-### ☁️ API REST de Servicios en la Nube
-* **Estado:** `📝 Planificación`
-* **Progreso:** ![10%](https://geps.dev/progress/10?text=10%25)
-* **Tecnologías:** Node.js, NoSQL, Cloud Services.
-* **Enfoque:** Implementación de persistencia no relacional y despliegue cloud.
+### ☁️ API REST Metereologica
+* **Estado:** `🏗️ En construcción`
+* **Progreso:** ![30%](https://geps.dev/progress/10?text=10%25)
+* **Tecnologías:** Node.js, Express.js, SQL, CRUD.
+* **Enfoque:** Implementación de API RESTFUL que permita consultar datos meteorológicos en tiempo real y gestionarlos como tareas .
 
 ---
 
